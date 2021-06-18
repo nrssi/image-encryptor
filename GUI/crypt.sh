@@ -4,28 +4,28 @@
 # ║║║╔╝
 # ║╚╝╝
 # ║╔╗║
-# ║║║╚╗   Kusumavathi (4SU19CS0)
+# ║║║╚╗   Kusumavathi (4SU19CS044) @contact:19b11@sdmit.in
 # ╚╝╚═╝
 #
 # ╔═╗ ╔╗
 # ║║╚╗║║
 # ║╔╗╚╝║
 # ║║╚╗║║
-# ║║ ║║║  N R Shyamsundar Iyanger (4SU19CS057)
+# ║║ ║║║  N R Shyamsundar Iyanger (4SU19CS057) @contact:nrshyamsundariyanger@protonmail.com
 # ╚╝ ╚═╝
 #
 # ╔╗
 # ║║
 # ║║
 # ║║ ╔╗
-# ║╚═╝║   Laxmi Magadum (4SU19CS0)
+# ║╚═╝║   Laxmi Magadum (4SU19CS045) @contact:19b12@sdmit.in
 # ╚═══╝
 #
 # ╔═╗ ╔╗
 # ║║╚╗║║
 # ║╔╗╚╝║
 # ║║╚╗║║
-# ║║ ║║║  Nachiketh (4SU19CS058)
+# ║║ ║║║  Nachiketh (4SU19CS058) @contact:19b24@sdmit.in
 # ╚╝ ╚═╝
 #
       
