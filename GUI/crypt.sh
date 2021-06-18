@@ -61,7 +61,7 @@ main(){
     pwait ./encode.py ;
     if [[ $res == "" ]]
     then 
-      res="Failed to encode, Please check path names"
+      res="Failed to encode, Please provide valid path"
     fi
     msg "$res";
   elif [[ $ans == "2" || $ans == "2 Decrypt" || $ans == "decrypt" || $ans == "Decrypt" ]]; then
@@ -69,7 +69,7 @@ main(){
     res=$(./decode.py $source_path);
     if [[ $res == "" ]]
     then 
-      res="Failed to decode, Please check path names"
+      res="Failed to decode, Please provide valid path"
     fi
     msg "$res";
   else
