@@ -2,7 +2,7 @@
 This is a repository that contains all the base code gui driver code and config files
 rasi files for the configuration of application .
 ## Contents
-  1. TUI code for stenography program using python
+  1. TUI code for steganoography program using python
   2. GUI code and config for the same program providing a front end API
 ## Authors
 1. Laxmi Magadum - CSE undergrad currently perceiving at SDMIT, Ujire
