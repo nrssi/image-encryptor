@@ -5,11 +5,11 @@
 * {
     background-color:       @background;
     text-color:             @selected;
-	font:				 	"Museo Sans 12";
+	font:				 	"Museo Sans 15";
 }
 
 window {
-    width:      			360px;
+    width:      			72%;
     padding:    			25px;
     border:					1px;
     border-radius:          12px;
