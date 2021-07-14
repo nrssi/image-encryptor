@@ -55,7 +55,7 @@ main(){
 	ans=$(user_input "Select 1.Encrypt 2.Decrypt ->" &)
   if [[ $ans == "1" || $ans == "1 Encrypt" || $ans == "encrypt" || $ans == "Encrypt" ]]; then
     source_path=$(user_input "Enter input file path->");
-    destination_path=$(user_input "Enter output file path->");
+    destination_path=$(user_input "Enter output file name(with extension)->");
     message=$(user_input "Enter the message to encode ->");
     res=$(./encode.py "$source_path" "$PWD/$destination_path" "$message");
     pwait ./encode.py ;
